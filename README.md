@@ -1,16 +1,28 @@
-# olxprojeto
+# PROJETO MOBILE
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto desenvolvido como trabalho final da matéria de desenvolvimento mobile no Senac com conexão no Firebase.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+REQUISITOS
+Cadastro de Usuário:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Recursos de criação de conta e login para os usuários.
+Interface do Usuário:
+
+Visualização de despesas com Nome, Categoria da despesa, Valor.
+Gráfico com relatório com a porcentagem de despesas por categoria.
+Tela para adicionar um valor inicial ao patrimônio.
+Cada usuário terá a capacidade de visualizar somente as suas despesas.
+Registro de Despesas:
+
+Capacidade de adicionar despesas com detalhes como data, categoria, valor, método de pagamento, e uma descrição opcional.
+Possibilidade de categorizar despesas para uma melhor organização.
+Gestão de Categorias:
+
+Opção para criar, editar e excluir categorias de despesas. (OPCIONAL)
+
+IMPORTANTE: Utilizar recursos do Firebase para cadastro de usuários e autenticação.
